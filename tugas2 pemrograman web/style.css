@@ -1,0 +1,31 @@
+.jumbotron{
+    height: 400px;
+    margin-top: 30px;
+    /* background-color: rgb(1, 187, 200); */
+}
+
+.garis{
+    border: 1px solid black;
+}
+
+.card-section{
+    background-color: rgba(246, 246, 246, 0.345);
+}
+
+.footer{
+    height: 150px;
+    background-color: rgb(0, 45, 77);
+    color: white;
+}
+
+.form-width{
+    min-width: 45%;
+}
+
+.form-section{
+    background-color: rgb(5, 116, 138);
+}
+
+.full-width{
+    width: 80%;
+}
